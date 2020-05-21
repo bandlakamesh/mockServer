@@ -1,0 +1,19 @@
+{
+  "NAME": {
+    "DADL_INDICATOR": "text",
+    "NICK_NAME": "text",
+    "LINEAGE_NAME": "text",
+    "TITLE2_NAME": "text",
+    "DIRECTORY_ID": "text",
+    "LAST_NAME": "text",
+    "EMAIL_ADDRESS": "text",
+    "NAME_ID": "text",
+    "ALI_CODE": "text",
+    "TN_ID": "text",
+    "MIDDLE_INITIAL": "text",
+    "NAME_ROLE_CODE": "text",
+    "CONTACT_COMPANY_NAME": "text",
+    "FIRST_NAME": "text",
+    "TITLE_NAME": "text"
+  }
+}

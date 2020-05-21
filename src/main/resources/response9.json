@@ -1,0 +1,58 @@
+{
+  "LIDB": {
+    "ORG_INTEREXCH_CARRIER_ID": "text",
+    "CARD_TYPE": "text",
+    "SENT_DATE": {
+      "year": 2010,
+      "month": 10,
+      "day": 15,
+      "hour": 14,
+      "minute": 0,
+      "second": 0
+    },
+    "ORG_CREDIT_CARD_IND": "text",
+    "ORG_SPECIAL_BNS_IND": "text",
+    "GENERIC_NAME_text": "text",
+    "CALLING_NAME_PRIVACY_IND": "text",
+    "ORG_INTEREXCH_CARRIER_IND": "text",
+    "PIN_ACTION_CODE": "text",
+    "LSCNB_ID": "text",
+    "STATUS_EFFECTIVE_DATE": {
+      "year": 2010,
+      "month": 10,
+      "day": 15,
+      "hour": 14,
+      "minute": 0,
+      "second": 0
+    },
+    "JOB_STEP_STATUS": "text",
+    "QUANTITY_OF_CARDS": 0,
+    "PIN_NUMBER": "text",
+    "ORG_COLLECT_BILL_IND": "text",
+    "SERVICE_EQUIPMENT_CATEGORY": "text",
+    "ORG_FREE_DA_IND": "text",
+    "SPECIAL_IND": "text",
+    "CUSTOMER_CLASS_CODE": "text",
+    "CARDSTYLE_IND": "text",
+    "ORG_LOCAL_NONCALL_IND": "text",
+    "CALLING_NAME_ACTIONTYPE": "text",
+    "ADDRESS_ID": "text",
+    "ACTION_CODE": "text",
+    "EFFECTIVE_CHANGE_DATE": {
+      "year": 2010,
+      "month": 10,
+      "day": 15,
+      "hour": 14,
+      "minute": 0,
+      "second": 0
+    },
+    "ORG_SENTPAID_IND": "text",
+    "BNS_CODE": "text",
+    "TN_ID": "text",
+    "FOREIGN_LANG_IND": "text",
+    "PIN_KEY": "text",
+    "ORG_INTERNATIONAL_CARRIER_IND": "text",
+    "ORG_THIRD_NUM_BILL_IND": "text",
+    "ORG_INTERNATIONAL_CARRIERID": "text"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "PHYSICAL_SERVICE_LOCATION": {
+    "ILEC_OC_NUMBER": "test",
+    "ACCESS_COL_LOCATION_BUILDING": "test",
+    "UNBUNDLED_COLLOCATION_BUILDING": "test",
+    "SAG_ADDRESS_ID": "test",
+    "UNBUNDLED_COLLOCATION_CLLI": "test",
+    "ILEC_OC_NAME": "test",
+    "ILEC_SERV_COMP_CLLI_ID": "test",
+    "ACCESS_COL_LOCATION_CLLI": "test",
+    "PSAP_ID": 0,
+    "GEO_COUNTY_FIPS_CODE": "test",
+    "RATE_CENTER": "test",
+    "ILEC_REPRESENTATIVE_TN": "test",
+    "CO_LLOCATION_ID": "test",
+    "BUILDING_SITE_CODE": "test",
+    "GEO_COUNTY_NAME": "test",
+    "DEMARCATION_POINT_DESC": "test",
+    "RATE_CENTER_STATE": "test",
+    "SERVICE_LOC_REF_ID": "test",
+    "PSAP_ROUTING_NO": "test",
+    "PSAP_COUNTY_NAME": "test",
+    "PSAP_AGENCY_NAME": "test",
+    "MSAG_ADDRESS_ID": "test",
+    "VOIP_ORDER_INDICATOR": "test"
+  }
+}
